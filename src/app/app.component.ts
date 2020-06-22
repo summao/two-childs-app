@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'two-childs-app';
+  count = 0;
+
+  onCounterChanged(count) {
+    console.log(count);
+    this.count = count;
+  }
 }

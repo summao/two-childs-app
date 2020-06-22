@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "two-childs-app"
+    }
+  },
+  "defaultProject": "two-childs-app",
+  "cli": {
+    "analytics": "4dd6b70d-e8a1-4568-b8b9-d599d5adb2be"
+  }
 }
